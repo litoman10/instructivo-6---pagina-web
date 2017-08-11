@@ -1,0 +1,29 @@
+#header {
+background-color:#f56b00;
+color:white;
+text-align:center;
+padding:5px;
+}
+#nav {
+line-height:30px;
+background-color:#eeeeee;
+height:400px;
+width:100px;
+float:left;
+padding:5px;
+}
+a,a:visited,a:hover{
+text-decoration: none;
+color:white;
+}
+.block{
+width:100%;
+background-color:#f56b00;
+text-align: center;
+}
+html{
+	height:100%;
+}
+body{
+	min-height: 100%;
+}
